@@ -1,7 +1,7 @@
 
 # Servidor de WebSockets Demo
 
-Este pequeño servidor WebSocket ha sido creado para llevar a cabo pruebas de mensajería en tiempo real, con el objetivo de potenciar y reforzar el conocimiento sobre este tema.
+Este pequeño servidor WebSocket ha sido creado para llevar a cabo pruebas de mensajería en tiempo real, con el objetivo de potenciar y reforzar el conocimiento sobre este tema. Fue creado usando node.js como framework y la libreria SocketIO para el funcionamiento.
 
 ## Authors
 
